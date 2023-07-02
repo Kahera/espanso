@@ -1,0 +1,27 @@
+matches: 
+  - trigger: ":shrug"
+    replace: "¯\\_(ツ)_/¯"
+
+  - trigger: ":lenny"
+    replace: "( ͡° ͜ʖ ͡°)"
+
+  - trigger: ":tableflip"
+    replace: "(╯°□°）╯︵ ┻━┻"
+
+  - trigger: ":unflip"
+    replace: "┬─┬﻿ ノ( ゜-゜ノ)"
+
+  - trigger: ":joy"
+    replace: "😂"
+
+  - trigger: ":oppned"
+    replace: "🙃"
+
+  - trigger: ":sweat_smile"
+    replace: "😅"
+
+  - trigger: ":flag_no"
+    replace: "🇳🇴"
+  
+  - trigger: ":flag_rainbow"
+    replace: "🏳️‍🌈"
