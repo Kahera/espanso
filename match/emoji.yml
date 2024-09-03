@@ -1,27 +1,42 @@
 matches: 
-  - trigger: ":shrug"
-    replace: "¯\\_(ツ)_/¯"
-
-  - trigger: ":lenny"
-    replace: "( ͡° ͜ʖ ͡°)"
-
-  - trigger: ":tableflip"
-    replace: "(╯°□°）╯︵ ┻━┻"
-
-  - trigger: ":unflip"
-    replace: "┬─┬﻿ ノ( ゜-゜ノ)"
-
   - trigger: ":joy"
     replace: "😂"
 
   - trigger: ":oppned"
     replace: "🙃"
 
-  - trigger: ":sweat_smile"
+  - trigger: ":sweat"
     replace: "😅"
+
+  - trigger: ":ok"
+    replace: "👌"
+
+  - trigger: ":<3"
+    replace: "❤️"
+
+  - trigger: ":shrug"
+    replace: "🤷🏼‍♀️"
+
+  - trigger: ":sob"
+    replace: "😭"
+
+  - trigger: ":sunglasses"
+    replace: "😎"
+
+  - trigger: ":thinking"
+    replace: "🤔"
+
+  - trigger: ":eyes"
+    replace: "👀"
+
+  - trigger: ":tada"
+    replace: "🎉"
+
+  - trigger: ":party"
+    replace: "🎉"
 
   - trigger: ":flag_no"
     replace: "🇳🇴"
   
-  - trigger: ":flag_rainbow"
+  - trigger: ":flag_rain"
     replace: "🏳️‍🌈"
